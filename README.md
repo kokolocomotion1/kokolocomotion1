@@ -1,10 +1,10 @@
-✨ Koko Uko ✨
+# ✨ Koko Uko ✨
 
 ## 🤸‍♀️ Current interests
--Quantum Sensors
--Post Quantum Cryptography
--Client development
--Network security
+- Quantum Sensors
+- Post Quantum Cryptography
+- Client development
+- Network security
 
 ## 🚢 
 -[Ending the "silent drop": how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient](https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/)
