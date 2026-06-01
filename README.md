@@ -1,16 +1,16 @@
-## Hi there 👋
+✨ Koko Uko ✨
 
-<!--
-**kokolocomotion1/kokolocomotion1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤸‍♀️ Current interests
+Quantum Sensors
+Post Quantum Cryptography
+Client development
+Network security
 
-Here are some ideas to get you started:
+## 🚢 
+[Ending the "silent drop": how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient](https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/)
+[A QUICker SASE client: re-building Proxy Mode](https://blog.cloudflare.com/faster-sase-proxy-mode-quic/)
+[Securing today for the quantum future: WARP client now supports post-quantum cryptography (PQC)](https://blog.cloudflare.com/post-quantum-warp/)
+[Troubleshooting network connectivity and performance with Cloudflare AI](https://blog.cloudflare.com/AI-troubleshoot-warp-and-network-connectivity-issues/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[LinkedIn](https://www.linkedin.com/in/kokouko/)
