@@ -1,6 +1,6 @@
 # ✨ Koko Uko ✨
 
-## 🤸‍♀️ Current interests
+## 🤸‍♀️ TOM
 - Quantum Sensors
 - Post Quantum Cryptography
 - Client development
